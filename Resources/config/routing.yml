@@ -1,0 +1,3 @@
+karudev_product_homepage:
+    path:     /
+    defaults: { _controller: KarudevProductBundle:Default:index }
